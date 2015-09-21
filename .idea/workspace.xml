@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b947f3a-af06-4c9d-b723-d57e1cf23a4b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Problem Set 4/4.1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Problem Set 4/arachnid.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/References.md" afterPath="$PROJECT_DIR$/References.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Problem Set 4/4.2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Problem Set 4/arachnid.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Data-Analysis-P3-Wrangling-OpenStreetMaps-Data.iws" />
@@ -26,6 +25,7 @@
     <SUITE FILE_PATH="coverage/Data-Analysis-P3-Wrangling-OpenStreetMaps-Data$validity.coverage" NAME="validity Coverage Results" MODIFIED="1442794947710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Data-Analysis-P3-Wrangling-OpenStreetMaps-Data$2_1.coverage" NAME="2.1 Coverage Results" MODIFIED="1442525002977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code/Problem Set 2" />
     <SUITE FILE_PATH="coverage/Data-Analysis-P3-Wrangling-OpenStreetMaps-Data$1_3.coverage" NAME="1.3 Coverage Results" MODIFIED="1440478700615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code/Problem Set 1" />
+    <SUITE FILE_PATH="coverage/Data-Analysis-P3-Wrangling-OpenStreetMaps-Data$4_2.coverage" NAME="4.2 Coverage Results" MODIFIED="1442815836657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code/Problem Set 4" />
     <SUITE FILE_PATH="coverage/Data-Analysis-P3-Wrangling-OpenStreetMaps-Data$2_2.coverage" NAME="2.2 Coverage Results" MODIFIED="1442525543731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code/Problem Set 2" />
     <SUITE FILE_PATH="coverage/Data-Analysis-P3-Wrangling-OpenStreetMaps-Data$3_6.coverage" NAME="3.6 Coverage Results" MODIFIED="1442805805296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code/Problem Set 3" />
     <SUITE FILE_PATH="coverage/Data-Analysis-P3-Wrangling-OpenStreetMaps-Data$3_3.coverage" NAME="3.3 Coverage Results" MODIFIED="1442801294507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code/Problem Set 3" />
@@ -55,10 +55,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4.1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="4.1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Code/Problem Set 4/4.1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.80587274">
+            <state vertical-scroll-proportion="0.0">
               <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
               <folding>
                 <element signature="e#1869#1882#0" expanded="true" />
@@ -69,6 +69,26 @@
                 <element signature="e#3308#3429#0" expanded="false" />
                 <element signature="e#3464#3531#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4.2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Code/Problem Set 4/4.2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.08319739">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="arachnid.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code/Problem Set 4/arachnid.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-138.8077">
+              <caret line="1163" column="1" selection-start-line="1163" selection-start-column="1" selection-end-line="1163" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -132,6 +152,8 @@
         <option value="$PROJECT_DIR$/Code/Problem Set 4/arachnid.csv" />
         <option value="$PROJECT_DIR$/References.md" />
         <option value="$PROJECT_DIR$/Code/Problem Set 4/4.1.py" />
+        <option value="$PROJECT_DIR$/Code/Problem Set 4/arachnid.json" />
+        <option value="$PROJECT_DIR$/Code/Problem Set 4/4.2.py" />
       </list>
     </option>
   </component>
@@ -241,25 +263,7 @@
       <recent name="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4.1">
-    <configuration default="false" name="3.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code/Problem Set 3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Data-Analysis-P3-Wrangling-OpenStreetMaps-Data" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/Problem Set 3/3.3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.4.2">
     <configuration default="false" name="3.5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -328,6 +332,24 @@
       <module name="Data-Analysis-P3-Wrangling-OpenStreetMaps-Data" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/Problem Set 4/4.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="4.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code/Problem Set 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Data-Analysis-P3-Wrangling-OpenStreetMaps-Data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/Problem Set 4/4.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -521,19 +543,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.3.3" />
-      <item index="1" class="java.lang.String" itemvalue="Python.3.5" />
-      <item index="2" class="java.lang.String" itemvalue="Python.3.6" />
-      <item index="3" class="java.lang.String" itemvalue="Python.fun" />
-      <item index="4" class="java.lang.String" itemvalue="Python.4.1" />
+      <item index="0" class="java.lang.String" itemvalue="Python.3.5" />
+      <item index="1" class="java.lang.String" itemvalue="Python.3.6" />
+      <item index="2" class="java.lang.String" itemvalue="Python.fun" />
+      <item index="3" class="java.lang.String" itemvalue="Python.4.1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.4.2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.4.1" />
-        <item index="1" class="java.lang.String" itemvalue="Python.fun" />
-        <item index="2" class="java.lang.String" itemvalue="Python.3.6" />
-        <item index="3" class="java.lang.String" itemvalue="Python.3.5" />
-        <item index="4" class="java.lang.String" itemvalue="Python.3.3" />
+        <item index="0" class="java.lang.String" itemvalue="Python.4.2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.4.1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.fun" />
+        <item index="3" class="java.lang.String" itemvalue="Python.3.6" />
+        <item index="4" class="java.lang.String" itemvalue="Python.3.5" />
       </list>
     </recent_temporary>
   </component>
@@ -608,7 +630,13 @@
       <option name="project" value="LOCAL" />
       <updated>1442805842343</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Problem Set 4.1 completed.">
+      <created>1442815544004</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1442815544004</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -657,7 +685,8 @@
     <MESSAGE value="Problem Set 3.3 completed." />
     <MESSAGE value="Problem Set 3.5 completed." />
     <MESSAGE value="Problem Set 3.6 completed." />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem Set 3.6 completed." />
+    <MESSAGE value="Problem Set 4.1 completed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem Set 4.1 completed." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -702,10 +731,19 @@
           <line>152</line>
           <option name="timeStamp" value="57" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Code/Problem Set 4/4.2.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="58" />
+      <option name="time" value="60" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="db.arachnid.find_one()" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/References.md">
@@ -1469,7 +1507,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/Problem Set 4/4.1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80587274">
+        <state vertical-scroll-proportion="0.0">
           <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
           <folding>
             <element signature="e#1869#1882#0" expanded="true" />
@@ -1480,6 +1518,22 @@
             <element signature="e#3308#3429#0" expanded="false" />
             <element signature="e#3464#3531#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/Problem Set 4/arachnid.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-138.8077">
+          <caret line="1163" column="1" selection-start-line="1163" selection-start-column="1" selection-end-line="1163" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/Problem Set 4/4.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08319739">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
