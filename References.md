@@ -6,3 +6,5 @@ http://stackoverflow.com/questions/17196018/extracting-table-contents-from-html-
 http://stackoverflow.com/questions/354038/how-do-i-check-if-a-string-is-a-number-float-in-python
 https://docs.python.org/2/library/stdtypes.html#set-types-set-frozenset
 https://discussions.udacity.com/t/lesson3-ps-1-always-have-str-in-the-result/25862 (was having trouble figuring out why there were str in every set, needed to skip a few rows of the file.
+http://stackoverflow.com/questions/16475384/rename-a-dictionary-key
+
