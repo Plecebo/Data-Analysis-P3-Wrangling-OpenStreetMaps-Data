@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b947f3a-af06-4c9d-b723-d57e1cf23a4b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Problem Set 4/4.2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Problem Set 4/arachnid.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Problem Set 4/4.3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/References.md" afterPath="$PROJECT_DIR$/References.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Data-Analysis-P3-Wrangling-OpenStreetMaps-Data.iws" />
@@ -20,6 +20,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Data-Analysis-P3-Wrangling-OpenStreetMaps-Data$fun.coverage" NAME="fun Coverage Results" MODIFIED="1442807853283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Data-Analysis-P3-Wrangling-OpenStreetMaps-Data$1_2.coverage" NAME="1.2 Coverage Results" MODIFIED="1440477156431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code/Problem Set 1" />
+    <SUITE FILE_PATH="coverage/Data-Analysis-P3-Wrangling-OpenStreetMaps-Data$4_3.coverage" NAME="4.3 Coverage Results" MODIFIED="1442818112022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code/Problem Set 4" />
     <SUITE FILE_PATH="coverage/Data-Analysis-P3-Wrangling-OpenStreetMaps-Data$2_3.coverage" NAME="2.3 Coverage Results" MODIFIED="1442777700477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code/Problem Set 2" />
     <SUITE FILE_PATH="coverage/Data-Analysis-P3-Wrangling-OpenStreetMaps-Data$2_6.coverage" NAME="2.6 Coverage Results" MODIFIED="1442787632836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code/Problem Set 2" />
     <SUITE FILE_PATH="coverage/Data-Analysis-P3-Wrangling-OpenStreetMaps-Data$validity.coverage" NAME="validity Coverage Results" MODIFIED="1442794947710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -45,11 +46,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="References.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="References.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/References.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.6666665">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.31911263">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -59,13 +60,12 @@
         <entry file="file://$PROJECT_DIR$/Code/Problem Set 4/4.1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+              <caret line="94" column="15" selection-start-line="89" selection-start-column="4" selection-end-line="94" selection-end-column="15" />
               <folding>
                 <element signature="e#1869#1882#0" expanded="true" />
                 <element signature="e#2362#2817#0" expanded="false" />
                 <element signature="e#2855#2932#0" expanded="false" />
                 <element signature="e#2969#3044#0" expanded="false" />
-                <element signature="e#3088#3276#0" expanded="false" />
                 <element signature="e#3308#3429#0" expanded="false" />
                 <element signature="e#3464#3531#0" expanded="false" />
               </folding>
@@ -73,12 +73,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4.2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="4.2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Code/Problem Set 4/4.2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08319739">
+            <state vertical-scroll-proportion="0.0">
               <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="28" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4.3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code/Problem Set 4/4.3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="91" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="108" selection-end-column="10" />
+              <folding>
+                <element signature="e#2272#2285#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,7 +98,7 @@
       <file leaf-file-name="arachnid.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Code/Problem Set 4/arachnid.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-138.8077">
+            <state vertical-scroll-proportion="-176.07692">
               <caret line="1163" column="1" selection-start-line="1163" selection-start-column="1" selection-end-line="1163" selection-end-column="1" />
               <folding />
             </state>
@@ -150,10 +162,11 @@
         <option value="$PROJECT_DIR$/Code/Problem Set 3/3.6.py" />
         <option value="$PROJECT_DIR$/fun.py" />
         <option value="$PROJECT_DIR$/Code/Problem Set 4/arachnid.csv" />
-        <option value="$PROJECT_DIR$/References.md" />
         <option value="$PROJECT_DIR$/Code/Problem Set 4/4.1.py" />
         <option value="$PROJECT_DIR$/Code/Problem Set 4/arachnid.json" />
         <option value="$PROJECT_DIR$/Code/Problem Set 4/4.2.py" />
+        <option value="$PROJECT_DIR$/Code/Problem Set 4/4.3.py" />
+        <option value="$PROJECT_DIR$/References.md" />
       </list>
     </option>
   </component>
@@ -263,25 +276,7 @@
       <recent name="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4.2">
-    <configuration default="false" name="3.5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code/Problem Set 3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Data-Analysis-P3-Wrangling-OpenStreetMaps-Data" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/Problem Set 3/3.5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.4.3">
     <configuration default="false" name="3.6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -350,6 +345,24 @@
       <module name="Data-Analysis-P3-Wrangling-OpenStreetMaps-Data" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/Problem Set 4/4.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="4.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code/Problem Set 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Data-Analysis-P3-Wrangling-OpenStreetMaps-Data" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/Problem Set 4/4.3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -543,19 +556,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.3.5" />
-      <item index="1" class="java.lang.String" itemvalue="Python.3.6" />
-      <item index="2" class="java.lang.String" itemvalue="Python.fun" />
-      <item index="3" class="java.lang.String" itemvalue="Python.4.1" />
-      <item index="4" class="java.lang.String" itemvalue="Python.4.2" />
+      <item index="0" class="java.lang.String" itemvalue="Python.3.6" />
+      <item index="1" class="java.lang.String" itemvalue="Python.fun" />
+      <item index="2" class="java.lang.String" itemvalue="Python.4.1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.4.2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.4.3" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.4.2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.4.1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.fun" />
-        <item index="3" class="java.lang.String" itemvalue="Python.3.6" />
-        <item index="4" class="java.lang.String" itemvalue="Python.3.5" />
+        <item index="0" class="java.lang.String" itemvalue="Python.4.3" />
+        <item index="1" class="java.lang.String" itemvalue="Python.4.2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.4.1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.fun" />
+        <item index="4" class="java.lang.String" itemvalue="Python.3.6" />
       </list>
     </recent_temporary>
   </component>
@@ -636,7 +649,13 @@
       <option name="project" value="LOCAL" />
       <updated>1442815544004</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Problem Set 4.2 completed.">
+      <created>1442815871474</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1442815871474</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -686,7 +705,8 @@
     <MESSAGE value="Problem Set 3.5 completed." />
     <MESSAGE value="Problem Set 3.6 completed." />
     <MESSAGE value="Problem Set 4.1 completed." />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem Set 4.1 completed." />
+    <MESSAGE value="Problem Set 4.2 completed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem Set 4.2 completed." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -737,11 +757,12 @@
           <option name="timeStamp" value="59" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="60" />
+      <option name="time" value="70" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="db.arachnid.find_one()" />
+        <watch expression="data[i]" />
       </configuration>
     </watches-manager>
   </component>
@@ -1489,6 +1510,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Code/Problem Set 4/4.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Code/Problem Set 4/arachnid.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1497,24 +1526,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/References.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.6666665">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Code/Problem Set 4/4.1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+          <caret line="94" column="15" selection-start-line="89" selection-start-column="4" selection-end-line="94" selection-end-column="15" />
           <folding>
             <element signature="e#1869#1882#0" expanded="true" />
             <element signature="e#2362#2817#0" expanded="false" />
             <element signature="e#2855#2932#0" expanded="false" />
             <element signature="e#2969#3044#0" expanded="false" />
-            <element signature="e#3088#3276#0" expanded="false" />
             <element signature="e#3308#3429#0" expanded="false" />
             <element signature="e#3464#3531#0" expanded="false" />
           </folding>
@@ -1523,16 +1543,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/Problem Set 4/arachnid.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-138.8077">
+        <state vertical-scroll-proportion="-176.07692">
           <caret line="1163" column="1" selection-start-line="1163" selection-start-column="1" selection-end-line="1163" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/Problem Set 4/4.2.py">
+    <entry file="file://$PROJECT_DIR$/Code/Problem Set 4/4.3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08319739">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="91" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="108" selection-end-column="10" />
+          <folding>
+            <element signature="e#2272#2285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/References.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31911263">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
