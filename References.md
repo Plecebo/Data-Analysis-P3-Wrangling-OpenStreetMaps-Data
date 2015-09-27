@@ -9,4 +9,5 @@ https://discussions.udacity.com/t/lesson3-ps-1-always-have-str-in-the-result/258
 http://stackoverflow.com/questions/16475384/rename-a-dictionary-key
 http://stackoverflow.com/questions/23893411/pymongo-mod-on-id-not-allowed had trouble with it telling me I couldn't update the _id field, this solved it.
 http://stackoverflow.com/questions/4372797/how-do-i-update-a-mongo-document-after-inserting-it
+http://stackoverflow.com/questions/13955679/mongodb-equal-to
 
