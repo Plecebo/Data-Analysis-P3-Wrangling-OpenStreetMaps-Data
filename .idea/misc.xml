@@ -10,5 +10,5 @@
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.8 virtualenv at C:\Users\Larry\venvs\udacityPlayground" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 2.7.6 (ssh://root@45.55.4.112:22/usr/bin/python)" project-jdk-type="Python SDK" />
 </project>

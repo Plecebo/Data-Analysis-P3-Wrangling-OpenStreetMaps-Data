@@ -1,4 +1,0 @@
-Please enter the content of the line that is causing the error:
-<?xml version="1.0" encoding="UTF-8"?>
-What do you think the problem is?
-There should only be one root element in an xml document.
