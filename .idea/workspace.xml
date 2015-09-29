@@ -2,59 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b947f3a-af06-4c9d-b723-d57e1cf23a4b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project/data.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project/query.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project/data/sample_small.osm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Data-Analysis-P3-Wrangling-OpenStreetMaps-Data.iml" afterPath="$PROJECT_DIR$/.idea/Data-Analysis-P3-Wrangling-OpenStreetMaps-Data.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project/DataAnalysisP3DataWranglingOpenStreetMapsData.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Lesson 6\__init__.py" afterPath="$PROJECT_DIR$/Problem Sets/Lesson 6/__init__.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Lesson 6\audit.py" afterPath="$PROJECT_DIR$/Problem Sets/Lesson 6/audit.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Lesson 6\data.py" afterPath="$PROJECT_DIR$/Problem Sets/Lesson 6/data.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Lesson 6\example.osm" afterPath="$PROJECT_DIR$/Problem Sets/Lesson 6/example.osm" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Lesson 6\mapparser.py" afterPath="$PROJECT_DIR$/Problem Sets/Lesson 6/mapparser.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Lesson 6\tags.py" afterPath="$PROJECT_DIR$/Problem Sets/Lesson 6/tags.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Lesson 6\users.py" afterPath="$PROJECT_DIR$/Problem Sets/Lesson 6/users.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 1\1.1.py" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 1/1.1.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 1\1.2.py" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 1/1.2.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 1\1.3.py" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 1/1.3.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 1\2013_ERCOT_Hourly_Load_Data.xls" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 1/2013_ERCOT_Hourly_Load_Data.xls" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 1\2013_ERCOT_Hourly_Load_Data.xls.zip" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 1/2013_ERCOT_Hourly_Load_Data.xls.zip" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 1\2013_Max_Loads.csv" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 1/2013_Max_Loads.csv" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 1\745090.csv" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 1/745090.csv" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 1\popular-viewed-1.json" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 1/popular-viewed-1.json" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 2\2.1.py" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 2/2.1.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 2\2.2.py" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 2/2.2.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 2\2.3.py" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 2/2.3.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 2\2.4.py" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 2/2.4.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 2\2.5.txt" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 2/2.5.txt" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 2\2.6.py" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 2/2.6.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 2\data\FL-ATL.html" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 2/data/FL-ATL.html" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 2\options.html" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 2/options.html" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 2\patent.data" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 2/patent.data" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 2\patent.data-0" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 2/patent.data-0" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 2\patent.data-1" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 2/patent.data-1" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 2\patent.data-2" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 2/patent.data-2" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 2\patent.data-3" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 2/patent.data-3" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 3\3.1.py" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 3/3.1.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 3\3.2.txt" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 3/3.2.txt" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 3\3.3.py" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 3/3.3.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 3\3.4.txt" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 3/3.4.txt" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 3\3.5.py" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 3/3.5.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 3\3.6.py" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 3/3.6.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 3\cities.csv" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 3/cities.csv" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 4\4.1.py" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 4/4.1.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 4\4.2.py" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 4/4.2.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 4\4.3.py" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 4/4.3.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 4\arachnid.csv" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 4/arachnid.csv" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 4\arachnid.json" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 4/arachnid.json" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 5\5.1.py" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 5/5.1.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 5\5.2.py" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 5/5.2.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\Problem Set 5\5.3.py" afterPath="$PROJECT_DIR$/Problem Sets/Problem Set 5/5.3.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\Code\__init__.py" afterPath="$PROJECT_DIR$/Problem Sets/__init__.py" />
-      <change type="MOVED" beforePath="E:\GitHub\Data-Analysis-P3-Wrangling-OpenStreetMaps-Data\References.md" afterPath="$PROJECT_DIR$/Project/References.md" />
     </list>
     <ignored path="Data-Analysis-P3-Wrangling-OpenStreetMaps-Data.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -699,7 +648,13 @@
       <option name="project" value="LOCAL" />
       <updated>1443403884038</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Project Complete">
+      <created>1443485365361</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1443485365361</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -707,6 +662,7 @@
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19486082" sideWeight="0.50692964" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19486082" sideWeight="0.49307036" order="8" side_tool="false" content_ui="tabs" />
@@ -720,7 +676,6 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26066098" sideWeight="0.5054602" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29657388" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -756,7 +711,8 @@
     <MESSAGE value="Problem Set 5.2 completed." />
     <MESSAGE value="Problem Set 5.3 completed." />
     <MESSAGE value="Lesson 6 completed." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 6 completed." />
+    <MESSAGE value="Project Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project Complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1102,6 +1058,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="70" column="41" selection-start-line="68" selection-start-column="8" selection-end-line="70" selection-end-column="41" />
+          <folding>
+            <element signature="e#649#684#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
